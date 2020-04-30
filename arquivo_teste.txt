@@ -1,2 +1,4 @@
 This is the first file of the project
 -------------------------------------
+
+Another line of the file
